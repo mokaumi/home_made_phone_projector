@@ -1,6 +1,6 @@
 # Projector Image 1
 
-![PROJECTOR](phone_projector_image/PROJECTOR.jpg)
+![PROJECTOR](phone_projector_image/PROJECTOR.png)
 
 ## Projector Image 2
 
