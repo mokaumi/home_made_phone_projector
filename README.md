@@ -1,4 +1,4 @@
-![projector image](projector image.jpg)
+![projector_image](projector_image.jpg)
 
 Homemade DIY Phone Projector with Solar-Powered MP3 Audio Enhancement
 Five years ago, I engineered this innovative DIY phone projector system designed to deliver an immersive video experience using basic optical principles and sustainable power sources.
