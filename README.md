@@ -1,10 +1,8 @@
-# Homemade DIY Phone Projector
-
-## Projector Image 1
+# Projector Image 1
 
 ![PROJECTOR](phone_projector_image/PROJECTOR.jpg)
 
-### Projector Image 2
+## Projector Image 2
 
 ![Projector Image](phone_projector_image/projector%20image.jpg)
 
